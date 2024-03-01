@@ -1,0 +1,15 @@
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\bin\Debug\net7.0\FinalProjectATM.exe
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\bin\Debug\net7.0\FinalProjectATM.deps.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\bin\Debug\net7.0\FinalProjectATM.runtimeconfig.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\bin\Debug\net7.0\FinalProjectATM.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\bin\Debug\net7.0\FinalProjectATM.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.csproj.AssemblyReference.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.AssemblyInfoInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.AssemblyInfo.cs
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\refint\FinalProjectATM.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\FinalProjectATM.genruntimeconfig.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectATM\obj\Debug\net7.0\ref\FinalProjectATM.dll

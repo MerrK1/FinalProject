@@ -1,0 +1,15 @@
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.csproj.AssemblyReference.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.AssemblyInfoInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.AssemblyInfo.cs
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\bin\Debug\net7.0\FinalProjectNumberGuess.exe
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\bin\Debug\net7.0\FinalProjectNumberGuess.deps.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\bin\Debug\net7.0\FinalProjectNumberGuess.runtimeconfig.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\bin\Debug\net7.0\FinalProjectNumberGuess.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\bin\Debug\net7.0\FinalProjectNumberGuess.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\refint\FinalProjectNumberGuess.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\FinalProjectNumberGuess.genruntimeconfig.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectNumberGuess\obj\Debug\net7.0\ref\FinalProjectNumberGuess.dll
