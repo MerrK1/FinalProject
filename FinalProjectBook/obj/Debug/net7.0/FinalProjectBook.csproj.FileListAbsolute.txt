@@ -1,0 +1,15 @@
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\bin\Debug\net7.0\FinalProjectBook.exe
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\bin\Debug\net7.0\FinalProjectBook.deps.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\bin\Debug\net7.0\FinalProjectBook.runtimeconfig.json
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\bin\Debug\net7.0\FinalProjectBook.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\bin\Debug\net7.0\FinalProjectBook.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.csproj.AssemblyReference.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.AssemblyInfoInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.AssemblyInfo.cs
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\refint\FinalProjectBook.dll
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.pdb
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\FinalProjectBook.genruntimeconfig.cache
+C:\Users\Mariam\Documents\GitHub\it-services\src\FinalProjectBook\obj\Debug\net7.0\ref\FinalProjectBook.dll
